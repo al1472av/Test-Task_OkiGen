@@ -1,9 +1,8 @@
-﻿using System.Security.Cryptography;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 
-namespace NoOne.Services.Addressables
+namespace ExternalTools.Scripts.Utilities
 {
     public static class AddressablesExtensions
     {

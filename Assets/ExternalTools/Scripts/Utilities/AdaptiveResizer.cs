@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Utilities
+namespace ExternalTools.Scripts.Utilities
 {
     [RequireComponent(typeof(RectTransform))]
     public class AdaptiveResizer : MonoBehaviour

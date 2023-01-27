@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 using Newtonsoft.Json;
 using Random = System.Random;
 
-namespace Types
+namespace ExternalTools.Scripts.Types
 {
     interface ISecurable
     {

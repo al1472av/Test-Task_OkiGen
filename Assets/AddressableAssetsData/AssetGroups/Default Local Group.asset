@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f9be30a7b2530964db1015a3de27c020
+  m_SerializeEntries:
+  - m_GUID: 95d118074fb78c94297c5435efebd399
+    m_Address: Assets/CartGame/Prefabs/Products/apple.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1958e57d836c1e4abb9cfa92b0951b3
+    m_Address: Assets/CartGame/Prefabs/Products/banana.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 919392566eda19241bb6d201d4089baa
+    m_Address: Assets/CartGame/Prefabs/Products/beet.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60902b2b75c70e34fab55f79dd48a07c
+    m_Address: Assets/CartGame/Prefabs/Products/cherries.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d0d10d3d0f9c0948bc9ce8846e18ef3
+    m_Address: Assets/CartGame/Prefabs/Products/lemon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5aaafd6fefe73674fb449ee6177ceaa5
+    m_Address: Assets/CartGame/Prefabs/Products/paprika.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8a43cc45ac2d7b44ea5adbbc53261885, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 440c1a1c069408c4eb255df3d202ee7e, type: 2}
+    - {fileID: 11400000, guid: dc1f73e4836d582428cbe298feb931cc, type: 2}

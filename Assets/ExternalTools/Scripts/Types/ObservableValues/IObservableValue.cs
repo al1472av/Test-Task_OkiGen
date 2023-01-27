@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Types.ObservableValues
+namespace ExternalTools.Scripts.Types.ObservableValues
 {
     public interface IObservableValue<T>
     {

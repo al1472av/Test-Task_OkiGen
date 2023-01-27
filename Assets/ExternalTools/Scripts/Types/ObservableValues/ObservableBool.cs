@@ -2,7 +2,7 @@
 using System.Runtime.Serialization;
 using Newtonsoft.Json;
 
-namespace Types.ObservableValues
+namespace ExternalTools.Scripts.Types.ObservableValues
 {
     [Serializable]
     public class ObservableBool : IObservableValue<bool>
