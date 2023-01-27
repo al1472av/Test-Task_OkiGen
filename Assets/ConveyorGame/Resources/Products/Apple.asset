@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08704d9756765e84fa3368b428aa2c6c, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: ID
+      Entry: 1
+      Data: a55e4f6b-a3fd-4ba5-9aff-92bf89b7245d
+    - Name: Name
+      Entry: 1
+      Data: Apple
+  _prefabView:
+    m_AssetGUID: 95d118074fb78c94297c5435efebd399
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
